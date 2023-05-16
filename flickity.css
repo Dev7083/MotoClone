@@ -159,7 +159,7 @@
     width: 100%;
   } */
   .section4{
-  background-image: url('cool-background.png');
+  background-image: url('./assets/image/cool-background.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
